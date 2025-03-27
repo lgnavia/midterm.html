@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Juan Dela Cruz</name>
+        <course>BSIT</course>
+        <year>3</year>
+        <section>3G2</section>
+        <advisor>Mr. Ramon Dela Cruz</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/men/1.jpg</photo>
+    </user>
+    <user>
+        <name>Maria Santos</name>
+        <course>BSBA</course>
+        <year>2</year>
+        <section>2A1</section>
+        <advisor>Ms. Anna Reyes</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/women/2.jpg</photo>
+    </user>
+    <user>
+        <name>Pedro Gomez</name>
+        <course>BSE</course>
+        <year>4</year>
+        <section>4B3</section>
+        <advisor>Dr. Luis Tan</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/men/3.jpg</photo>
+    </user>
+    <user>
+        <name>Ana Dela Cruz</name>
+        <course>BSN</course>
+        <year>1</year>
+        <section>1C1</section>
+        <advisor>Ms. Carla Villanueva</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/women/4.jpg</photo>
+    </user>
+    <user>
+        <name>Mark Villanueva</name>
+        <course>BSCS</course>
+        <year>3</year>
+        <section>3A2</section>
+        <advisor>Mr. Eric Mendoza</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/men/5.jpg</photo>
+    </user>
+    <user>
+        <name>Jessica Reyes</name>
+        <course>BSHM</course>
+        <year>2</year>
+        <section>2C3</section>
+        <advisor>Ms. Patricia Santos</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/women/6.jpg</photo>
+    </user>
+    <user>
+        <name>Carlos Fernandez</name>
+        <course>BSME</course>
+        <year>4</year>
+        <section>4D1</section>
+        <advisor>Dr. John Lopez</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/men/7.jpg</photo>
+    </user>
+    <user>
+        <name>Emily Cruz</name>
+        <course>BSN</course>
+        <year>1</year>
+        <section>1B2</section>
+        <advisor>Ms. Liza Mercado</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/women/8.jpg</photo>
+    </user>
+    <user>
+        <name>Daniel Moreno</name>
+        <course>BSCPE</course>
+        <year>3</year>
+        <section>3C4</section>
+        <advisor>Mr. Peter Gonzales</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/men/9.jpg</photo>
+    </user>
+    <user>
+        <name>Sarah Lim</name>
+        <course>BSIT</course>
+        <year>2</year>
+        <section>2B1</section>
+        <advisor>Ms. Angela Bautista</advisor>
+        <schoolYear>2025-2026</schoolYear>
+        <photo>https://randomuser.me/api/portraits/women/10.jpg</photo>
+    </user>
+</users>
